@@ -1,8 +1,6 @@
 # collin
 ### coding and cybersec
 
-*i like to experiment with stuff*
-
 ⚐ based in lower saxony, germany<br>
 ↯ currently failing the school year
 
