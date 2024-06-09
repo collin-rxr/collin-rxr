@@ -1,14 +1,14 @@
 ## faq
 
-**what do i do?**
+#### what do i do?
 
 coding and hacking/cybersec
 
-**where am i from?**
+#### where am i from?
 
 lower saxony / germany
 
-**what programming languages do i use?**
+#### what programming languages do i use?
 
 python & html/css/js
 
