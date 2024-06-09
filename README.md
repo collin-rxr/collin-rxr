@@ -1,5 +1,7 @@
-## Hi there 👋
-
+  ## collin
+  what do i do?
+  coding and hacking/cybersec
+  
 <!--
 **collin-rxr/collin-rxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
