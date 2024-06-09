@@ -1,5 +1,4 @@
-# collin
-### coding and cybersec
+### i do coding and cybersec
 
 ⚐ based in lower saxony, germany<br>
 ↯ currently failing the school year
