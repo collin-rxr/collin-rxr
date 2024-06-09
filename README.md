@@ -1,7 +1,11 @@
-  ## collin
-  what do i do?
-  coding and hacking/cybersec
-  
+## faq
+**what do i do?**
+coding and hacking/cybersec
+**where am i from**
+lower saxony / germany
+**what programming languages do i use?**
+python & html/css/js
+
 <!--
 **collin-rxr/collin-rxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
